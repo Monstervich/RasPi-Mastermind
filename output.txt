@@ -1,0 +1,21 @@
+sudo ./cw3 -d 
+RUNNING IN DEBUG MODE. 
+ASM SET GPFSEL 2 at mmap'ed address 76fcf008 to 294912 (bitmask 48000)  
+ASM SET GPFSEL 2 at mmap'ed address 76fcf008 to 299008 (bitmask 49000)  
+ASM SET GPFSEL 2 at mmap'ed address 76fcf008 to 299520 (bitmask 49200)  
+ASM SET GPFSEL 1 at mmap'ed address 76fcf004 to 2097152 (bitmask 200000)  
+ASM SET GPFSEL 2 at mmap'ed address 76fcf008 to 2396672 (bitmask 249200)  
+ASM SET GPFSEL 2 at mmap'ed address 76fcf008 to 2396736 (bitmask 249240)  
+Pin 26, OUTPin 12, OUT 
+Beginning Game 
+SECRET: 2 3 2  
+============== 
+Guess 1: 2 1 3  
+Answer 1: 
+  Full Correct: 1  
+  Half Correct: 1  
+Guess 2: 2 3 2  
+Answer 2: 
+  Full Correct: 3  
+  Half Correct: 0  
+You win! 
