@@ -66,3 +66,5 @@ sudo ./cw3 -vd
 We are aware that some people may not have the Raspberry Pi and thus we have included a file named 'output.txt' which shows the output in debug mode.
 
 ---
+<h2>Credits</h2>
+Prasad "psa85" Acharya & Abdullah "monstervich" Abdelwahab
